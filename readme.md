@@ -22,7 +22,7 @@ This is a test explaining a simple white-box regression model, in which you can 
 
 All of our experiments can be reproduced by following the instructions.
 
-*Go to the relevant dataset directory and execute python main.py*, e.g.:
+**Go to the relevant dataset directory (rare/hmm/switchstate/mortalty) and execute python main.py**, e.g.:
 
 run the diffgroup rare feature dataset:
 ```shell script
@@ -49,4 +49,4 @@ If you find this repository useful for your research, please cite it in BibTeX f
       journal={arXiv preprint arXiv:2401.08552}
 }
 ```
-In case of any questions, bugs, suggestions or improvements, please feel free to drop me or open an issue.
+In case of any questions, bugs, suggestions or improvements, please feel free to drop me at _zichuanliu@smail.nju.edu.cn_ or open an issue.
