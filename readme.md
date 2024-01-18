@@ -26,7 +26,7 @@ All of our experiments can be reproduced by following the instructions.
 
 run the diffgroup rare feature dataset:
 ```shell script
-cd ContraLSP
+cd rare
 python rare_feature_diffgroup.py --print_result False
 ```
 and then test it and print results:
