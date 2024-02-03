@@ -42,11 +42,12 @@ All results will be stored in the `save_dir` folder.
 If you find this repository useful for your research, please cite it in BibTeX format:
 
 ```tex
-@article{liu2024explaining,
+@inproceedings{liu2024explaining,
       title={Explaining Time Series via Contrastive and Locally Sparse Perturbations}, 
       author={Zichuan Liu and Yingying Zhang and Tianchun Wang and Zefan Wang and Dongsheng Luo and Mengnan Du and Min Wu and Yi Wang and Chunlin Chen and Lunting Fan and Qingsong Wen},
-      year={2023},
-      journal={arXiv preprint arXiv:2401.08552}
+      year={2024},
+booktitle={International Conference on Learning Representations},
+pages={1-21}
 }
 ```
 In case of any questions, bugs, suggestions or improvements, please feel free to drop me at _zichuanliu@smail.nju.edu.cn_ or open an issue.
