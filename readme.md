@@ -2,7 +2,7 @@
 
 Code for **Explaining Time Series via Contrastive and Locally Sparse Perturbations** accepted by ICLR 2024. ContraLSP is implemented in PyTorch and tested on different time series tasks, including classification and prediction benchmarks. Our experiments are based on [time_interpret](https://github.com/josephenguehard/time_interpret), and thanks to the all original authors! [[paper]](https://openreview.net/pdf?id=qDdSRaOiyb) [[code]](https://github.com/zichuan-liu/ContraLSP) 
 
-## introduction
+## Introduction
 
 We posted an introductory presentation on this [[slides]](https://github.com/zichuan-liu/ContraLSP/blob/main/intro_contralsp_slides.pdf), so you can get a quick overview of the work.
 
